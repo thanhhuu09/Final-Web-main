@@ -24,9 +24,9 @@
         </ul>
     </div>
     <ul class="navbar-nav mx-auto">
-        <li class="nav-item"><a class="nav-link" href="index.html"> Tình trạng công việc </a> </li>
-        <li class="nav-item"><a class="nav-link" href="index.html"> Danh sách nghỉ phép </a></li>
-        <li class="nav-item"><a class="nav-link" href="index.html"> Quản lý nhân viên </a></li>
+        <li class="nav-item"><a class="nav-link" href="index.php"> Tình trạng công việc </a> </li>
+        <li class="nav-item"><a class="nav-link" href="index.php"> Danh sách nghỉ phép </a></li>
+        <li class="nav-item"><a class="nav-link" href="index.php"> Quản lý nhân viên </a></li>
     </ul>
     
     <div class="navbar-child mx-auto">
@@ -34,7 +34,7 @@
             <img class="avatar" src="images/male.svg">
             <span class = "topbar_name">SangSinh21</span>
             <div class="navbar-user-list">
-                <a class = "navbar-user-item" href="profile.html">Tài khoản của tôi</a>
+                <a class = "navbar-user-item" href="profile.php">Tài khoản của tôi</a>
                 <a class = "navbar-user-item" href="#">Nhắn tin</a>
                 <a class = "navbar-user-item" href="#">Đăng xuất</a>
             </div>
@@ -72,7 +72,7 @@
                 <div class="info-item-wrap">
                     <div class="info-item">
                         <label>Mật khẩu</label>
-                        <p class="context">********* <a href="repassword.html">Thay đổi</a></p>
+                        <p class="context">********* <a href="repassword.php">Thay đổi</a></p>
                     </div>
                 </div>
                 <div class="info-item-wrap">
